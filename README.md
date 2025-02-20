@@ -1,5 +1,5 @@
 # 💫 About Me:
-learnig python,ai ,<br>👀 Interests: AI, Robotics, Web Development, Coding, and Mathematics<br>🌱 Currently Learning: React.js and Next.js<br>💞️ Looking to Collaborate On: Exciting projects in AI, Web Development, or Robotics<br>📫 Reach Me At: TBD<br>😄 Pronouns: He/Him<br>⚡ Quote: “Talk is cheap. Show me the code.” – Linus Torvalds
+<br>👀 Interests: AI, Robotics, Web Development, Coding, and Mathematics<br>🌱 Currently Learning: React.js and Next.js<br>💞️ Looking to Collaborate On: Exciting projects in AI, Web Development, or Robotics<br>📫 Reach Me At: TBD<br>😄 Pronouns: He/Him<br>⚡ Quote: “Talk is cheap. Show me the code.” – Linus Torvalds
 
 
 ## 🌐 Socials:
