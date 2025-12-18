@@ -45,18 +45,6 @@ I enjoy building systems that combine **logic, creativity, and real-world impact
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SynthReaper&theme=dark&hide_border=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SynthReaper&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SynthReaper&theme=dark&hide_border=false&layout=compact)
-
----
-
-## 👀 Profile Views
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=SynthReaper&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ---
 
 ⭐ *Feel free to explore my repositories and reach out for collaboration!*
