@@ -73,8 +73,6 @@ I'm **Aditya Goyal (SynthReaper)**, a technology enthusiast passionate about **A
 | **EduQuity** | Youth Investment & Financial Literacy Platform | [**GitHub Repo**](https://github.com/SynthReaper/EduQuity) |
 | **Face Recognition System** | Python & OpenCV Attendance Tracking GUI | [**GitHub Repo**](https://github.com/SynthReaper/Face-Recognition-Attendance-System) |
 | **HelioCast** | JavaScript Weather App | [**GitHub Repo**](https://github.com/SynthReaper/HelioCast) |
-| **dotEye** | Advanced Visual Analytics Platform | [**GitHub Repo**](https://github.com/SynthReaper/dotEye) |
-| **ScribeIndex** | Structured Document Indexing System | [**GitHub Repo**](https://github.com/SynthReaper/ScribeIndex) |
 
 </div>
 
